@@ -4,11 +4,13 @@
 โดยนักศึกษาชั้นปีที่ 3 สาขาวิชาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยธรรมศาสตร์ ปีการศึกษา 2563
 
 ## Environment Setup
-  - Editior and Collaboration tools : Google Colaboratory (Jupyter Notebook)
+  - Editor and Collaboration tools : Google Colaboratory (Jupyter Notebook)
   - Language : Python 3.7.10
   - Library : Pandas(ver. 1.1.5), Numpy(ver. 1.19.5), Matplotlib(ver. 3.2.2), Seaborn(ver. 0.11.1), Scikit learn(ver. 0.22.2.post1), Keras(ver. 2.5.0), pmdarima(ver. 1.8.2), fbprophet(ver. 0.7.1), statsmodels(ver. 0.12.2)
   - Data storage : Google Drive (CSV files)
   - Version control System : Github
+  - Version repository : YomriversDroughtAnalysis 1.0
+  - Algorithm : SARIMA, Facebook Prophet, LSTM(Long Short-Term Memory)
 
 ## Data Detail
 ข้อมูลจากสถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน) [Data](https://drive.google.com/drive/folders/1ezFS9OX_Mmj8V-rSclCaBi8Mqthv2hA-?usp=sharing)
