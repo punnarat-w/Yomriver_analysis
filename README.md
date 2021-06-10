@@ -3,7 +3,7 @@
 
 โดยนักศึกษาชั้นปีที่ 3 สาขาวิชาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยธรรมศาสตร์ ปีการศึกษา 2563
 
-##Environment Setup
+## Environment Setup
   - Editior and Collaboration tools : Google Colaboratory (Jupyter Notebook)
   - Language : Python 3.7.10
   - Libary : Pandas(ver. 1.1.5), Numpy(ver. 1.19.5), Matplotlib(ver. 3.2.2), Seaborn(ver. 0.11.1), Scikit learn(ver. 0.22.2.post1), Keras(ver. 2.5.0), pmdarima(ver. 1.8.2), fbprophet(ver. 0.7.1), statsmodels(ver. 0.12.2)
